@@ -15,7 +15,7 @@ import { Configuration, OpenAIApi } from "openai";
 import { useSnackbar } from "notistack";
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 
 const openai = new OpenAIApi(configuration);
